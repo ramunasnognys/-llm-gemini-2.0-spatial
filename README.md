@@ -82,12 +82,4 @@ make fix    # Apply automatic formatting
 make help   # Show available commands
 ```
 
-## 🤝 Contributing
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/your-feature`)
-3. Commit changes (`git commit -am 'Add some feature'`)
-4. Push branch (`git push origin feature/your-feature`)
-5. Open Pull Request
 
-## 📄 License
-MIT License - see [LICENSE](LICENSE) for details
